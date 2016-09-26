@@ -16,7 +16,7 @@ for providing the code for the <a href="http://stackoverflow.com/questions/25909
 
 
 
-The output of this program creates two output files. One for unit attributes, and one for statistics (HP, DMG, etc)
+The scipt creates two output files. One for unit attributes, and one for statistics (HP, DMG, etc)
 
 An example output is below:
 
