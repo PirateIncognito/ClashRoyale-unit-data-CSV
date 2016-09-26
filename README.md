@@ -6,7 +6,7 @@ Please share your tools with the community and include a reference to this proje
 
 This script was written in Python 2.7 on Windows. It has the C:\ drive location hard coded and must be changed to run on other systems.
 
-Dependencies:
+Dependencies: <br />
 BeautifulSoup 3 library https://www.crummy.com/software/BeautifulSoup/ <br />
 Requests: HTTP for Humans v2.11.1 http://docs.python-requests.org/en/master/
 
