@@ -6,7 +6,9 @@ Please share your tools with the community and include a reference to this proje
 
 This script was written in Python 2.7 on Windows. It has the C:\ drive location hard coded and must be changed to run on other systems.
 
-This file uses the BeautifulSoup 3 library https://www.crummy.com/software/BeautifulSoup/
+Dependencies:
+BeautifulSoup 3 library https://www.crummy.com/software/BeautifulSoup/ <br />
+Requests: HTTP for Humans v2.11.1 http://docs.python-requests.org/en/master/
 
 Credit goes to this Aviad (http://stackoverflow.com/questions/259091/how-can-i-scrape-an-html-table-to-csv/29276277#29276277)
 for providing the code for the Table parse. <br />
