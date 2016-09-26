@@ -17,9 +17,7 @@ An example output is below:
 
 "Knight","Level","Hitpoints","Damage","Damage per second",
 "Knight","1","660","75","68",
-
 "Knight","2","726","82","74",
-
 "Knight","3","798","90","81",
 
 "Knight","4","877","99","90",
