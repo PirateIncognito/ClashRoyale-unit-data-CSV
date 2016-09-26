@@ -1,6 +1,9 @@
 # ClashRoyale-unit-data-CSV
 A Python script for extracting unit data stats from http://clashroyale.wikia.com/ and saving them to CSV
 
+Please use this python for your own uses. The only request I make is:  <br />
+Please share your tools with the community and include a reference to this project. <br />
+
 This script was written in Python 2.7 on Windows. It has the C:\ drive location hard coded and must be changed to run on other systems.
 
 This file uses the BeautifulSoup 3 library https://www.crummy.com/software/BeautifulSoup/
@@ -9,8 +12,7 @@ Credit goes to this Aviad (http://stackoverflow.com/questions/259091/how-can-i-s
 for providing the code for the Table parse. <br />
 http://stackoverflow.com/questions/259091/how-can-i-scrape-an-html-table-to-csv/29276277#29276277
 
-Please use this python for your own uses. The only request I make is:  <br />
-Please share your tools with the community and include a reference to this project.
+
 
 The output of this program creates two output files. One for unit attributes, and one for statistics (HP, DMG, etc)
 
