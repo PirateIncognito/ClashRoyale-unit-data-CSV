@@ -6,10 +6,11 @@ This script was written in Python 2.7 on Windows. It has the C:\ drive location 
 This file uses the BeautifulSoup 3 library https://www.crummy.com/software/BeautifulSoup/
 
 Credit goes to this Aviad (http://stackoverflow.com/questions/259091/how-can-i-scrape-an-html-table-to-csv/29276277#29276277)
-for providing the code for the Table parse.
+for providing the code for the Table parse. <br />
 http://stackoverflow.com/questions/259091/how-can-i-scrape-an-html-table-to-csv/29276277#29276277
 
-Please use this python for your own uses. The only request I make is: Please share your tools with the community and include a reference to this project.
+Please use this python for your own uses. The only request I make is:  <br />
+Please share your tools with the community and include a reference to this project.
 
 The output of this program creates two output files. One for unit attributes, and one for statistics (HP, DMG, etc)
 
