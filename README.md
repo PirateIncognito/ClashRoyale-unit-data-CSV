@@ -4,7 +4,7 @@ A Python script for extracting unit data stats from http://clashroyale.wikia.com
 The script is free to use for everyone. The only request I make is:  <br />
 Please share your tools with the community and include a reference to this project. <br />
 
-This script was written in Python 2.7 on Windows. It has the C:\ drive location hard coded and must be changed to run on other systems.
+This script was written in Python 2.7
 
 Dependencies: <br />
 <a href="https://www.crummy.com/software/BeautifulSoup">BeautifulSoup 3 library</a> <br />
